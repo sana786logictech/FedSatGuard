@@ -1,4 +1,4 @@
-# FedSatGuard: Cross-Layer Anomaly Detection for Secure Federated Learning in Satellite-Terrestrial Networks
+# FedSatGuard:
 
 [![IEEE TIFS](https://img.shields.io/badge/IEEE%20TIFS-2026-blue)](https://ieeexplore.ieee.org/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-green)](https://www.python.org/)
