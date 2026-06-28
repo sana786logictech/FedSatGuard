@@ -1,4 +1,4 @@
-# FedSatGuard: Cross-Layer Secure Federated Learning for Satellite-Terrestrial Networks
+# FedSatGuard: 
 
 [![JISA](https://img.shields.io/badge/JISA-Elsevier-orange)](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications)
 
