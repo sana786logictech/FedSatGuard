@@ -1,6 +1,6 @@
 # FedSatGuard: Cross-Layer Anomaly Detection for Secure Federated Learning in Satellite-Terrestrial Networks
 
-[![JISA](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications)
+[![Journal of Information Security and Applications](https://img.shields.io/badge/Elsevier-JISA-orange)](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-green)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.9%2B-orange)](https://pytorch.org/)
 
